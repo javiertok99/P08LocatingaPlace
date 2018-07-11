@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">P08 Locating a Place</string>
+    <string name="east">East</string>
+    <string name="central">Central</string>
+    <string name="north">North</string>
+    <string name="title">ABC Pte Ltd\n\nWe now have 3 branches. Look below for the addresses and info.</string>
+    <string-array name="locations">
+        <item>Select a Location</item>
+        <item>North</item>
+        <item>Central</item>
+        <item>East</item>
+    </string-array>
+</resources>
